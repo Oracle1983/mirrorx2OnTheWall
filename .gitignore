@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# datafiles
+.Style2vec/data/
+.Style2vec/models/
+.Style2vec/logs/
+.data/
